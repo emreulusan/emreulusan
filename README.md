@@ -6,4 +6,3 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/emreulusan/)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=emreulusan&color=blue)
