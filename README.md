@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 [![Gmail Badge](https://img.shields.io/badge/-emre.ulusaan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:emre.ulusaan@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-emreulusan-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emreulusan/ "Connect on LinkedIn")
